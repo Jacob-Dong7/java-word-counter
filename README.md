@@ -15,9 +15,8 @@ It is useful for students, writers, and developers who need fast feedback on tex
 Supported metrics include:
 <ul>
   <li>📝 Word count</li>
-  <li>🔤 Character count (with and without spaces)</li>
-  <li>📄 Line count</li>
-  <li>📊 Basic text statistics</li>
+  <li>🔤 Word count</li>
+  <li>📄 Sentence count</li>
 </ul>
 
 <hr/>
@@ -41,8 +40,6 @@ Supported metrics include:
 <h2>📄 Features</h2>
 <ul>
   <li>✔️ Real-time word and character counting</li>
-  <li>✔️ Accurate handling of spaces, punctuation, and line breaks</li>
-  <li>✔️ Clean and responsive user interface</li>
   <li>✔️ Efficient text processing logic</li>
   <li>✔️ Simple and intuitive usage</li>
 </ul>
